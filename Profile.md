@@ -1,3 +1,4 @@
+Welcome to my GitHub profile!
 - 👋 Hi, I’m @KayJayDev
 - 👀 I’m interested in changing my career.
 - 🌱 I’m currently attending NuCamp Full Stack Web & Mobile Development Bootcamp, Apr 2022.
